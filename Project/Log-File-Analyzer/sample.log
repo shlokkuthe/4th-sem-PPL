@@ -1,0 +1,15 @@
+[INFO] Line 1: Program started successfully.
+
+[ERROR] Line 3: IndentationError - expected an indented block after 'if' statement.
+
+[INFO] Line 5: Variable 'x' assigned value 10.
+
+[INFO] Line 6: Variable 'y' assigned value "5" (string).
+
+[ERROR] Line 7: TypeError - unsupported operand types for +: 'int' and 'str'.
+
+[WARNING] Line 9: Possible data type mismatch detected between integer and string.
+
+[INFO] Line 10: Print statement executed.
+
+[INFO] Line 11: Program execution completed (with errors).
